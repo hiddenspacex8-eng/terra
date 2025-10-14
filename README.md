@@ -1,4 +1,8 @@
-# Terra : 
+# Terra :
+
+## Terra needs an Active Maintainer
+I'm searching for an active maintainer for Terra. I have some exciting ideas for new features and other things possible with Terra / OSINT. Would love to hear from interested folks. Mail me at xadhrit@gmail.com
+
 
 <p align="center">
 <img src="./img/terra.jpg" height="200px" width="400px"  alt="terra"  />
